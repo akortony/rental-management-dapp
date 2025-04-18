@@ -1,11 +1,3 @@
-{
-  "server": {
-    "baseDir": [
-      "./src",
-      "./build/contracts"
-    ],
-    "routes": {
-      "/vendor": "./node_modules"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:280849e8b41c50753bfcc75a1486fd6ac4d459ea66432713f141165552540fd2
+size 142
